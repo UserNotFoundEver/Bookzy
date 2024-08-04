@@ -24,3 +24,6 @@ Accounting for csv files, in my case, Etsy csv's with data/math that Etsy doesn'
 
 # Use cases
 This is a nice intro to python and what you can do with csv files. Feel free to use it for your own purposes.
+
+# DISCLAIMER THE UNLICENSE
+We are not responsible for what you do with this code. You are open to modifying it. I would make sure your network is secure before running it.
